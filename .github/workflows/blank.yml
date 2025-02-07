@@ -24,4 +24,3 @@ jobs:
           echo "Pausing for 1 minute..."
           sleep 60
         done
-
