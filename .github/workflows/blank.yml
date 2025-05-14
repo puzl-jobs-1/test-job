@@ -10,7 +10,7 @@ jobs:
     steps:
     - name: Run
       run: |
-        sleep 1
+        sleep 5
         df -h
         mount
         sleep 1800
