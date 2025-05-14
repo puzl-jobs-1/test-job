@@ -11,4 +11,5 @@ jobs:
     - name: Run
       run: |
         df -h
-        sleep 3600
+        mount
+        sleep 1800
