@@ -12,4 +12,3 @@ jobs:
       run: |
         df -h
         mount
-        sleep 1800
