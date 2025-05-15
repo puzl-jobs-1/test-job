@@ -10,8 +10,6 @@ jobs:
     steps:
     - name: Run
       run: |
-        export
-        sleep 5
         df -h
         mount
         sleep 1800
