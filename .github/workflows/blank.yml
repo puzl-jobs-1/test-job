@@ -12,3 +12,4 @@ jobs:
       run: |
         df -h
         mount
+
