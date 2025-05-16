@@ -1,7 +1,5 @@
 name: stress-ng
 on:
-  schedule:
-  - cron: '* * * * *'
   push:
     branches:
       - '**'
