@@ -22,6 +22,7 @@ jobs:
         mount
         tree -a /.puzl
         touch /.puzl/default-branch-cache/123
-        sleep 300
+        lsblk
+        sleep 3000
 
 
