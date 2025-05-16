@@ -21,4 +21,4 @@ jobs:
         df -h
         mount
         tree -a /.puzl
-        
+        sleep 300
