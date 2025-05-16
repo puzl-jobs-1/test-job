@@ -20,4 +20,5 @@ jobs:
       run: |
         df -h
         mount
+        tree -a /.puzl
 
