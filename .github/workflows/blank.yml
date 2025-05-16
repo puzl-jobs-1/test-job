@@ -21,3 +21,4 @@ jobs:
         df -h
         mount
         ls -l /.puzl/
+        touch /.puzl/pull-request-cache/1
