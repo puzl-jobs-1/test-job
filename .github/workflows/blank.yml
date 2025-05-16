@@ -21,5 +21,6 @@ jobs:
         df -h
         mount
         tree -a /.puzl
+        touch /.puz/default-branch-cache/123
         sleep 300
 
