@@ -20,7 +20,4 @@ jobs:
       run: |
         df -h
         mount
-        ls -l /.puzl/
-        ls -l /.puzl/pull-request-cache/
-        touch /.puzl/pull-request-cache/1
-
+        tree -a /.puzl
