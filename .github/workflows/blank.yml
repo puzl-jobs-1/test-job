@@ -21,4 +21,3 @@ jobs:
         df -h
         mount
         tree -a /.puzl
-        touch /.puzl/default-branch-cache/1234
