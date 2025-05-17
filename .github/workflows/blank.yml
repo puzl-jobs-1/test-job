@@ -21,3 +21,4 @@ jobs:
         df -h
         mount
         tree -a /.puzl
+        cat /proc/self/mountinfo
